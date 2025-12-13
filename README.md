@@ -1,5 +1,4 @@
 # Steganography in Action
-Demonstration of HandsOnProjects
 
 Explored steganography, hashing, and AES encryption via CyberChef to decode hidden information and
 demonstrate modern data-obfuscation techniques in cybersecurity.
